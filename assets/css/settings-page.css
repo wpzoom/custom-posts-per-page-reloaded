@@ -1,0 +1,41 @@
+.cppp-settings {
+    max-width: 640px;
+}
+
+.cppp-settings h3, .cppp-settings p {
+    padding: 0px 12px;
+}
+
+.cppp-settings .tab {
+    background-color: #ffffff;
+    box-shadow: 0 0 0 1px #ccd0d4, 0 1px 1px 1px rgba(0, 0, 0, .04);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cppp-settings .form-table th[scope='row'] {
+    padding-left: 20px;
+}
+
+.cppp-settings .filter-links li > a {
+    border-bottom: none;
+}
+
+.cppp-settings .filter-links li > a:focus {
+    box-shadow: none;
+    outline: 0;
+}
+
+.cppp-settings .form-table td span.description {
+    font-style: italic;
+    padding-left: 50px;
+    color: #666;
+}
+
+.cppp-settings .tab {
+    display: none;
+}
+
+.cppp-settings .tab p {
+    padding: 0 20px;
+}
