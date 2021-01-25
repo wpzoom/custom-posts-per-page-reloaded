@@ -45,7 +45,7 @@ class WPZOOM_Settings_Page {
 				WPZOOM_CPPP_PLUGIN_URL . 'assets/js/settings-page.js',
 				[ 'jquery', 'jquery-ui-tabs' ],
 				filemtime( WPZOOM_CPPP_PLUGIN_DIR . 'assets/js/settings-page.js' ),
-				true
+				false
 			);
 		}
 	}
