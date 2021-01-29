@@ -1,7 +1,7 @@
 === Custom Posts Per Page Reloaded ===
 
 Contributors: WPZOOM, jeremyfelt
-Donate link: https://wpzoom.com/
+Donate link: https://www.wpzoom.com/
 Tags: admin, administration, settings, archives, posts-per-page, paged, posts, count, number, custom-post-type
 Requires at least: 4.3
 Tested up to: 5.6
