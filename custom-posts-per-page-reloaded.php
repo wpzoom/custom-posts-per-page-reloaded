@@ -3,7 +3,7 @@
 Plugin Name: Custom Posts Per Page Reloaded
 Plugin URI: https://wpzoom.com/plugins/custom-posts-per-page-reloaded/
 Description: Shows a custom set number of posts depending on the type of page being viewed.
-Version: 1.0.0
+Version: 2.0.0
 Author: WPZOOM
 Author URI: https://wpzoom.com
 Text Domain: custom-posts-per-page

@@ -1,10 +1,10 @@
 === Custom Posts Per Page Reloaded ===
 
-Contributors: WPZOOM, jeremyfelt
+Contributors: WPZOOM, llemurya, ciorici
 Donate link: https://www.wpzoom.com/
 Tags: admin, administration, settings, archives, posts-per-page, paged, posts, count, number, custom-post-type
 Requires at least: 4.3
-Tested up to: 5.6
+Tested up to: 5.8
 Requires PHP: 5.6
 Stable tag: trunk
 License: GPLv2 or later
@@ -33,6 +33,8 @@ Each of the above settings can have a different value for the first page display
 
 Custom Posts Per Page makes it easy to manage exactly how your content is displayed to your readers, especially when different views have different layouts, rather than relying on the single setting in the Reading menu or having to hard code options in your custom theme.
 
+This is a fork (an updated clone) of [Custom Posts Per Page](https://wordpress.org/plugins/custom-posts-per-page/) by [Jeremy Felt](https://jeremyfelt.com/).
+
 == Installation ==
 
 1. Upload 'custom-posts-per-page-count.php' to your plugin directory, usually 'wp-content/plugins/', or install automatically via your WordPress admin page.
@@ -41,7 +43,6 @@ Custom Posts Per Page makes it easy to manage exactly how your content is displa
 
 That's it! The current setting for *Blog pages show at most* under *Reading* will be used to fill in the default values. You can take over from there.
 
-This is a fork (an updated clone) of [Custom Posts Per Page](https://wordpress.org/plugins/custom-posts-per-page/) by [Jeremy Felt](https://jeremyfelt.com/).
 
 == Frequently Asked Questions ==
 = What are you doing with found_posts? =
@@ -54,5 +55,5 @@ This is a fork (an updated clone) of [Custom Posts Per Page](https://wordpress.o
 
 == Changelog ==
 
-= 1.0.0 =
+= 2.0.0 =
 * Initial release.
